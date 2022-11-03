@@ -19,13 +19,13 @@ python3 -m venv env
 * Если у вас Linux/MacOS
 
     ```
-    source venv/bin/activate
+    source env/bin/activate
     ```
 
 * Если у вас windows
 
     ```
-    source venv/scripts/activate
+    source env/scripts/activate
     ```
 
 
