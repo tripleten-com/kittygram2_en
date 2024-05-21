@@ -3,3 +3,4 @@ djangorestframework==3.12.4
 PyJWT==2.1.0
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
