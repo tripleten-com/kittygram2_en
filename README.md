@@ -3,7 +3,7 @@
 Clone the repository and open it in the command-line interface:
 
 ```
-git clone https://github.com/practicum-com/kittygram2-en.git
+git clone https://github.com/tripleten-com/kittygram2_en.git
 ```
 
 ```
